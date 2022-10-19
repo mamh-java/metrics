@@ -18,7 +18,7 @@
     <properties>
         <javaModuleName>io.dropwizard.metrics.logback14</javaModuleName>
         <logback14.version>1.4.0</logback14.version>
-        <slf4j.version>2.0.0</slf4j.version>
+        <slf4j.version>2.0.3</slf4j.version>
 
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
